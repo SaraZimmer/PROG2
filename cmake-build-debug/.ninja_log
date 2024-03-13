@@ -1,0 +1,10 @@
+# ninja log v5
+0	18	1710339384752888927	CMakeFiles/estruturas.dir/_deps/libprg-src/libprg/src/libprg/sum.c.o	369d34be59657181
+0	19	1710339384752888927	CMakeFiles/estruturas.dir/_deps/libprg-src/libprg/src/libprg/sub.c.o	9a0606ab71f9c7aa
+0	24	1710339384756888926	CMakeFiles/estruturas.dir/main.c.o	721e111d9c91a564
+19	36	1710339384772888926	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sum.c.o	f01e7ccb25a60d8c
+19	36	1710339384772888926	CMakeFiles/estruturas.dir/_deps/libprg-src/libprg/src/libprg/libprg.c.o	12176ad0dd8df249
+24	40	1710339384776888926	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/sub.c.o	9535be2ac29c784e
+36	52	1710339384784888925	_deps/libprg-build/libprg/CMakeFiles/libprg.dir/src/libprg/libprg.c.o	cd4373983a141b52
+52	59	1710339384792888925	_deps/libprg-build/libprg/liblibprg.a	f29e9da30c3b7f
+59	77	1710339384812888925	estruturas	9c50dccf6fcc360d

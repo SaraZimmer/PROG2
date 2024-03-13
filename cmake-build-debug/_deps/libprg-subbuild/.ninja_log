@@ -1,0 +1,21 @@
+# ninja log v5
+0	4	1710339378704889134	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	435d88c4a467918c
+0	4	1710339378704889134	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-mkdir	435d88c4a467918c
+5	581	1710339379280889114	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	56d4870db7cb63c1
+5	581	1710339379280889114	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-download	56d4870db7cb63c1
+582	1044	0	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	dfcc99814feb0007
+582	1044	0	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-update	dfcc99814feb0007
+1044	1049	1710339379748889098	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	a3b6922a600e6040
+1044	1049	1710339379748889098	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-patch	a3b6922a600e6040
+1049	1055	1710339379752889098	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	c94c3644cdcf88b9
+1049	1055	1710339379752889098	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-configure	c94c3644cdcf88b9
+1055	1060	1710339379760889098	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	1b08e730f9f87005
+1055	1060	1710339379760889098	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-build	1b08e730f9f87005
+1060	1065	1710339379764889097	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	4fd4420352c8e2a1
+1060	1065	1710339379764889097	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-install	4fd4420352c8e2a1
+1066	1071	1710339379772889097	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	9820fbd9e3d79064
+1066	1071	1710339379772889097	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-test	9820fbd9e3d79064
+1071	1078	1710339379776889097	CMakeFiles/libprg-populate-complete	ac00d7231b2ffea9
+1071	1078	1710339379776889097	libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	ac00d7231b2ffea9
+1071	1078	1710339379776889097	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/CMakeFiles/libprg-populate-complete	ac00d7231b2ffea9
+1071	1078	1710339379776889097	/home/aluno/CLionProjects/estruturas/cmake-build-debug/_deps/libprg-subbuild/libprg-populate-prefix/src/libprg-populate-stamp/libprg-populate-done	ac00d7231b2ffea9
